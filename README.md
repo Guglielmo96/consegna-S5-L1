@@ -1,0 +1,2 @@
+Si noti nel primo screenshot che la regola appena creata che blocca il passaggio dei dati tra la macchina kali linux e meta è disabilitata e quindi possiamo entrare nella pagina DVWA di Metasploitable2.
+Nel secondo screenshot invece, abilitiamo la regola e si nota come la pagina relativa al servizio DVWA rimane in caricamento e non viene aperta perchè la regola del firewall blocca la comunicazione tra le due macchine
